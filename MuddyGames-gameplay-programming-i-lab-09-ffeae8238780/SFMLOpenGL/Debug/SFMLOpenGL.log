@@ -1,0 +1,28 @@
+﻿  Game.cpp
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(52): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(270): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(271): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(293): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(294): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(316): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(317): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(338): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(339): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(360): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(361): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(362): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(382): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(383): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(384): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(404): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(405): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(406): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(425): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(426): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(446): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(447): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paul\documents\muddygames-gameplay-programming-i-lab-09-ffeae8238780\sfmlopengl\game.cpp(448): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SFMLOpenGL.vcxproj -> C:\Users\Paul\Documents\MuddyGames-gameplay-programming-i-lab-09-ffeae8238780\Debug\SFMLOpenGL.exe
